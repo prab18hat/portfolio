@@ -1,2 +1,2 @@
-# portfolio
-my portfolio using html css and js
+# Portfolio.prabhat
+I Developed this Portfolio using HTML5 , CSS3 and JAVASCRIPT.
